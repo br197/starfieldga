@@ -21,6 +21,7 @@ public void setup(){
  
 }
 
+#draw
 
 public void draw(){
   speed = map(mouseX, 0, width, 0, 30);
